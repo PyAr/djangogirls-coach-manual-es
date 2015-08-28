@@ -1,2 +1,2 @@
-# djangogirls-couch-manual-es
-Traducción al Español del "Manual de Couch" de Django Girls
+# djangogirls-coach-manual-es
+Traducción al Español del "Manual de Coach" de Django Girls
