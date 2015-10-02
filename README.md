@@ -12,6 +12,12 @@ Traducción al Español del "Manual de Coach" de Django Girls
 2. Comienza a traducir utilizando tu editor de texto favorito.
 3. Haz un pull request.
 
+**Nota:** si no tienes conocimiento cómo se utiliza Github, puedes navegar
+hasta el archivo que quieras dentro de la carpeta `original/`, copiar el
+contenido de cualquier archivo que quiertas traducir a un editor de texto
+y luego nos pasas la traducción por email a argentinaenpython@openmailbox.org.
+¡Muchas gracias
+
 # Ejemplo de Traducción al Portugués:
 
 * https://github.com/pyladies-brazil/coach-manual/tree/develop/pt-br
