@@ -6,11 +6,14 @@ Traducción al Español del "Manual de Coach" de Django Girls
 
 # ¿Cómo traducir?
 
+
+1. Una vez que hayas hecho un `git clone` del repositorio, debes ejecutar
+  `git submodule init` y luego `git submodule update`
 1. Simplemente copia el archivo que quieras traducir desde la carpeta
    `original/` dentro de la carpeta `traducidos/` manteniendo la misma
    estructura de directorios.
-2. Comienza a traducir utilizando tu editor de texto favorito.
-3. Haz un pull request.
+1. Comienza a traducir utilizando tu editor de texto favorito.
+1. Haz un pull request.
 
 **Nota:** si no tienes conocimiento cómo se utiliza Github, puedes navegar
 hasta el archivo que quieras dentro de la carpeta `original/`, copiar el
