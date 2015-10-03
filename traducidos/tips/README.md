@@ -48,88 +48,88 @@ Un 'Bueno, en realidad...' ocurre cuando alguien dice algo que es casi - pero no
 
 ### Aprende de los errores
 
-As we already mentioned, we want our attendees to really understand what they're doing, so they're not only copy-pasting the code, but they're actually learning something. That's why we chose the "learn from mistakes" approach here.
+Como ya hemos mencionado, deseamos que nuestros alumnos realmente entiendan lo que están haciendo, por tanto, no solo están copiando-pegando código sino que, en realidad, están aprendiendo. Por ello es por lo que hemos elegido, en este caso, el punto de vista de "aprende de los errores".
 
-Over the course of the tutorial you'll see that we're trying to first steer attendees into an error, bug or mistake. Make the attendee read the bug report and __understand it__. More importantly, we're trying to teach them that bugs aren't scary and that error pages are their friends. This approach will go a long way later on.
+Durante el desarrollo del tutorial verás que estamos intentando conducir, inicialmente, a los alumnos hacia el error o equivocación. Haz que el alumno lea el informe de error y __lo entienda__. Y más importante, estamos intentando enseñar que los errores no son algo a temer y que las páginas de error son nuestras amigas. Esta aproximación nos llevará a un largo camino más tarde.
 
-### Learn that coding is fun
+### Aprender que escribir código es divertido
 
-The ultimate goal of the workshop is not to build a website. It is not to teach the whole of Django. It is also not to teach programming.
+El último objetivo del taller no es crear una página web. No es enseñar Django al completo. Tampoco es enseñar a programar.
 
-The ultimate goal is to show that code is fun. __To get people excited.__ To show them that programming is not scary and that it is for everyone. To show them how powerful programming skills can be.
+El último objetivo es mostrar que el código es divertido. __Para tener a la gente excitada.__ Para enseñar a la gente que programar no es algo a temer y que puede ser para todo el mundo. Sirve para enseñar lo poderoso que puede llegar a ser disponer de habilidades en programación.
 
-This excitement and passion will then drive them to spend endless hours trying to figure all of this out during and after the workshop.
+Esta excitación y pasión nos conducirá a pasar interminables horas a entender todo esto durante el taller y posteriormente.
 
-### Atmosphere
+### Atmósfera
 
-Excitement is good, but stress is bad for learning. We really care about the atmosphere and giving our attendees a great first experience with coding.
+La excitación puede ser buena mientras que el estrés puede ser contraproducente para aprender. Realmente nos preocupa la atmósfera y dar a nuestros alumnos una primera experiencia maravillosa escribiendo código.
 
-Imagine this: You're trying to do something difficult. You're in a room full of strangers who know how to do it better than you. You don't know how to articulate your questions. You don't know the right names for everything.
+Imagina lo siguiente: Estás intentando hacer algo complejo. Estás en una habitación llena de extraños que saben la forma de hacerlo mejor que tú. No sabes como articular tus preguntas. No conoces los nombres correctos para cualquier cosa.
 
-For most people, this is a very uncomfortable and stressful situation. But it doesn't have to be! You're there to make it easier. Here is what you can do:
+Para la mayoría de gente esta es una situación incómoda y estresante. ¡Pero no debería ser así! Estamos ahí para hacer que esto sea sencillo. Esto es lo que puedes hacer:
 
-- Smile!
-- Make eye contact
-- Admit that you don't know everything
-- Tell them it's ok to make lots of mistakes
-- Tell them it's ok to get frustrated
-- Use normal language, not jargon!
-- Assume everyone you're coaching has zero knowledge but infinite intelligence
-- Go at their pace, not your pace.
-- Be friendly and kind
-- Use their name
-- Make sure they know they're awesome!
-- Ask them if they need help -- some people are afraid to ask
-- Emphasize that there is no such thing as a "dumb" question
-- Don't say "Any questions?" Say "What questions do you have?"
-- Talk sssssslllllloooooowwwwwwllllllyyyyyyyy
-- Wait much longer than you feel is comfortable for questions/comments
+- ¡Sonríe!
+- Haz contacto visual
+- Admite que no lo sabes todo
+- Dile a los demás que es correcto cometer un montón de errores
+- Dile a los demás que está bien caer en la frustración
+- Usa lenguaje corriente, ¡no uses jerga!
+- Asume que todos los presentes tienen conocimiento nulo pero inteligencia infinita
+- Ve a su ritmo, no al tuyo.
+- Sé amigable y educado
+- Usa sus nombres
+- ¡Asegúrate que sepan que son gente maravillosa!
+- Pregúntales si necesitan ayuda -- Algunas personas tienen miedo a preguntar
+- Enfatiza que no existen preguntas "tontas".
+- No digas "¿Alguna pregunta?" y di "¿Cuáles son vuestras preguntas?"
+- Habla dddddeeeeeeeessssssppppaaaacccciiiiooooo
+- Espera más tiempo del que creas conveniente para preguntas/comentarios
 
-### Removing the roadblocks
+### Elimina las barricadas
 
-#### Fear
+#### Miedo
 
-A big obstacle that we try to remove is fear. In most situations, but especially school and work, people are afraid of looking stupid. This fear frequently keeps us from asking important questions like "how does that work?" or even just "why?".
+Uno de los grandes obstáculos que queremos eliminar es el miedo. En muchas situaciones, pero especialmente en la escuela o el trabajo, la gente está preocupada por parecer estúpida. Frecuentemente, este miedo nos mantiene callados y no permite que realicemos preguntas importantes como "¿Cómo funciona eso?" o incluso, simplemente, "¿por qué?".
 
-Fear of making mistakes also keeps people from making progress.
+También, el miedo a cometer errores provoca que la gente se enfoque en progresar.
 
-#### Impostor syndrome
+#### Síndrome del impostor
 
-Madeline Kunin's research: women self-filter more than men.
+La investigación de Madeline Kunin: las mujeres se autoexcluyen más que los hombres.
 
-The impostor syndrome is a psychological phenomenon in which people are unable to internalize their accomplishments. Despite external evidence of their competence, they remain convinced that they are frauds and do not deserve the success they have achieved. __Impostor syndrome is particularly common among women.__
+El síndrome del impostor es un fenómeno psicológico en el cual la gente no es capaz de internalizar sus logros. A pesar de su evidente competencia, se mantienen convencidos de que son un fraude y que no se merecen el éxito que han logrado. __El síndrome del impostor es particularmente común en las mujeres.__
 
-To fight impostor syndrome:
-- Don't accept any learner saying they are too 'whatever' to do it; assure them that they can do it.
-- Congratulate people on their achievements and take some time to let them show you what they've done.
-- Compliment their work.
-- Show them that they actually *know* things.
+Para combatir al síndoorme del impostor:
+- No aceptes a ningún aprendiz diciendo que ellos son demasiado 'lo que sea' para hacerlo; asegúrales que son capaces de hacerlo.
+- Felicita a las personas ante sus logros y tómate algo de tiempo para mostrarles lo que han conseguido.
+- Felicita su trabajo.
+- Muéstrales que, en realidad, *saben* cosas.
 
-### Answering questions
+### Respondiendo a preguntas
 
-We do not roll our eyes or laugh at questions. We do not debate which programming language, methods or technologies are "better".
+No pongas tus ojos en blanco o tte rías de una pregunta. No debatimos sobre qué lenguaje de programación es métodos o tecnologías son "mejores".
 
-We always answer __positively__:
-- I’m glad you said that
-- Great question
-- Hm, I'm not sure... Let's look on the internet/ask someone else.
+Siempre respondemos __postitivamente__:
+- Me alegra que preguntes eso
+- Excelente pregunta
+- Hm, No estoy seguro... Vamos a mirar en internet/preguntar a otra persona.
 
-### No back-seat driving
+### No conduzcas desde el asiento de atrás
 
-Imagine that their keyboard is made of lava. LAVA! You wouldn't touch it, right?
+Imagina que tu teclado está hecho de lava. ¡LAVA! No lo tocarías, ¿verdad?
 
-Whenever you take over their keyboard, learners are going to drift away. This can be offputting and even scary.
+Desde donde sea que uses el traclado de otros, los alumnos se apartarán. Esto puede ser desagradable e incluso intimidante.
 
-We're sure you can explain what needs to be done and instruct them with your words only (it's actually a cool exercise for you too!). If you absolutely, ultimately **must** type something on their computer — chances are you don't — ask whether that is okay with them and explain what are you doing.
+Estamos seguros que puede explicar lo que se tiene que hacer e instruir a tus alomnos únicamente con tus palabras (¡En realidad es un buen ejercico incluso para ti!). Si, de forma imperativa, **debes** escribir algo en su computadora — a veces sucede — pregúntales si no existe ningún inconveniente y explícales lo que estás haciendo.
 
-Ask: "Do you mind if I type?" or "May I?".
+Pregunta: "¿No te importa que teclee?" o "¿Podría?".
 
-### Show them how they can teach themselves
+### Muéstrales como pueden enseñarse a si mismos
 
-Attendees will only spend 8 hours or so with you, but they will have to spend many many many more hours teaching themselves. Fortunately, you can make it easier for them!
+Los alumnos solo compartirán alrededor de 8 horas contigo, peroo ellos tendrán que pasar muchas muchas muchas más horas enseñándose a si mismos. Afortunadamente, ¡puedes hacer que esto se más sencillo para todas ellas!
 
-__Make them Google stuff__ - do not give immediate answers just to make things go faster. It doesn't matter if you are going faster or slower -- what matters is whether they're going to fall in love with it or not.
+__Hazles usar un buscador ppara encontrar cosas__ - no les des respuestas inmediatas solo para hacer que las cosas vayan más rápido. No pasa nada si estás yendo más rápido o más despacio -- lo que importa es si se van a enamorar de lo que estás enseñando o no.
 
-__Ask about their ideas__ - "How would you solve it?", "What do you think?". Make them figure it out on their own. You know they know it, right?
+__Pregúntales sobre sus ideas__ - "¿Cómo lo resolverías?", "¿Qué crees?". Deja que piensen las cosas por si mismmas. Tú sabes que lo saben, ¿verdad?
 
-__Encourage them to make their own changes and not to follow the tutorial too precisely__ - if they try to add some twists, and don't follow the tutorial at every step, they will learn much, much more. It is easy to copy-paste some code and put it in the correct location. It is harder to add something on your own and make it work.
+__Anímales a realizar sus propios cambios y a desviarse ligeramente del tutorial si es adecuado__ - Si intentan dar algún rodeo y no se sigue el tutorial a cada paso aprenderán mucho mucho más. Es sencillo copiar-pegar algo de código y colocarlo en ell lugar adecuado. Es más complicado añadir algo a partir de tu propio criterio y hacer que funcione.
