@@ -18,19 +18,20 @@ Esta manual también está basado en estos maravillosos recursos:
 
 ## ¿Qué necesito para ser un Guía Django Girls?
 
-Your interest in helping beginners dip their toes into web programming is already a great start! You don't need to be an expert in programming or Django - we're teaching pretty basic stuff. You only need:
+¡Tu interés en ayudar a principiantes a introducir sus dedos en la programación web es un buen inicio! No necesitas ser una experta en nprogramación o en Django - Estamos enseñando cosas muy básicas. Solo necesitas:
 
-- Lots of patience, smiles and a friendly attitude.
-- The ability to answer all sorts of questions in a beginner-friendly way (even if that means the explanation isn’t technically precise) throughout the duration of the workshop.
-- Some time to go through the [Tutorial](http://tutorial.djangogirls.org) before the event.
-- Free time on the weekend!
-- Curiosity!
+- Un montón de paciencia, sonrisas y actitud positiva.
+- La habilidad para responder todo tipo de preguntas de forma sencilla para principiantes (incluso si eso significa que la respuesta no sea técnicamente precisa) a lo largo de la duración del taller.
+- Algún tiempo para revisar el [Tutorial](http://tutorial.djangogirls.org) antes del evento.
+- ¡Tiempo libre durante el fin de semana!
+- ¡Curiosidad!
 
-## Why should I be a Django Girls coach?
+## ¿Por qué debería ser una formadora de las Django Girls?
 
-You mean besides incredibly good karma? Here are some very likely outcomes:
+¿Quieres decir además de porque vas a tener un montón de buen karma? Aquí hay algunos de los posibles resultados:
 
-- You’ll meet interesting new people outside your usual developer group.
-- You’ll probably learn something new by answering questions you never thought of asking yourself.
-- Eternal gratitude from your group of attendees and the Django Girls community.
-- You’ll help break down the stereotype that women are not interested in technology and programming and thus help your sisters, female friends, relatives and (future) daughters have more choices in their future. And you can add all that on your CV!
+- Conocerás gente interesante fuera de tu grupo de desarrollo habitual.
+- Probablemente aprenderás algo nuevo respondiendo preguntas que nunca  te habías planteado.
+- Gratitud eterna de tu grupo de alumnas y de la comunidad Django Girls.
+- Ayudarás a romper el estereotipo de que las mujeres no están interesadas en la tecnología y la programación and, así, ayudarás a sus hermanas, amigas, compañeras, y (futuras) hijas a tener más posibilidades en el futuro. ¡Y, además, puedes añadir todo eso en tu CV!
+s
