@@ -1,12 +1,12 @@
-# Guía para el formador, consejos prácticos
+# Guía para el guía, consejos prácticos
 
-Siempre que sea posible queremos que nuestros formadores sigan una sería de guías.
+Siempre que sea posible queremos que nuestros guíaes sigan una sería de pautas.
 
-### ¡Manos a la obra! Formando Vs enseñando
+### ¡Manos a la obra! Formando Vs Enseñando
 
 Durante el taller trabajarás en pequeños grupos con tres aprendices. Este es un taller orientado hacia la experiencia y a aprender haciendo. Estarás situada en los laterales en lugar de estar frente a ellas.
 
-Los formadores deben estar 100% enfocados en sus aprendices y estar siempre disponibles para ellos. Aségurate de que su experiencia sea positiva y se diviertan. No juzgues, sé útil y aprecia sus (in-)capacidades.
+Los guíaes deben estar 100% enfocados en sus aprendices y estar siempre disponibles para ellos. Aségurate de que su experiencia sea positiva y se diviertan. No juzgues, sé útil y aprecia sus (in-)capacidades.
 
 ### Sé Flexible y Accesible 
 
@@ -14,7 +14,7 @@ Para los alumnos que tienen alguna discapacidad auditiva o deséan beneficiarse 
 
 Los alumnos con discapacidad visual podrían aumentar el tamaño del texto en sus líneas de comando, sus editores de texto y en las páginas web. Probablemente sabrán como hacerlo en sus navegadores, pero quizá necesiten ayuda para aumentar el tamaño en otros sitios. No asumas nada sobre la visión de los demás; intenta empezar el día con la siguiente declaración, "¡Y si alguien necesita ayuda para hacer el texto más grande o pequeño cuando empiece a escribir código que me lo haga saber!"  
 
-Por momentos, los alumnos pueden llegar a estar abrumados. ¡Este es el porqué de que existan descansos dentro del horario! Se crees que un alumno está empezando a frustrarse y le beneficiaría un descanso, hazles saber de que está bien que se pare durante unos minutos, toma un sorbo de agua y volved a la tarea. Algunas veces, el solo movimiento de tu cuerpo puede ayudar a que los conocimientos cristalicen. 
+Por momentos, los alumnos pueden llegar a estar abrumados. ¡Este es el porqué de que existan descansos dentro del horario! Si crees que un alumno está empezando a frustrarse y le beneficiaría un descanso, hazles saber de que está bien que se pare durante unos minutos, toma un sorbo de agua y vuelva a la tarea. Algunas veces, el solo movimiento de tu cuerpo puede ayudar a que los conocimientos cristalicen. 
 
 ### Palabras
 
@@ -22,11 +22,11 @@ Deberás ser muy cuidadosa con las palabras usadas durante todo el tiempo.
 
 #### No uses jerga
 
-Es difícil pero es posible. No uses palabras y terminología técnica que lo niños no serían capaces de entender.
+Es difícil pero es posible. No uses palabras y terminología técnica que los niños no serían capaces de entender.
 
 #### Ni digas "es sencillo..." o "solo..."
 
-Para tus aprendices quizá sea la cosa más compleja que jaamás hayan hecho. Diciéndoles que algo "es super fácil" no está bien.  Decir "solo…" sugiere que es simple y fallarán si encuentran que es difícil de entender.
+Para tus aprendices quizá sea la cosa más compleja que jamás hayan hecho. Diciéndoles que algo "es super fácil" no está bien.  Decir "solo…" sugiere que es simple y fallarán si encuentran que es difícil de entender.
 
 #### No finjas sorpresa
 
@@ -81,7 +81,7 @@ Para la mayoría de gente esta es una situación incómoda y estresante. ¡Pero 
 - ¡Asegúrate que sepan que son gente maravillosa!
 - Pregúntales si necesitan ayuda -- Algunas personas tienen miedo a preguntar
 - Enfatiza que no existen preguntas "tontas".
-- No digas "¿Alguna pregunta?" y di "¿Cuáles son vuestras preguntas?"
+- No digas "¿Alguna pregunta?" y di "¿Cuáles son sus preguntas?"
 - Habla dddddeeeeeeeessssssppppaaaacccciiiiooooo
 - Espera más tiempo del que creas conveniente para preguntas/comentarios
 
@@ -99,7 +99,7 @@ La investigación de Madeline Kunin: las mujeres se autoexcluyen más que los ho
 
 El síndrome del impostor es un fenómeno psicológico en el cual la gente no es capaz de internalizar sus logros. A pesar de su evidente competencia, se mantienen convencidos de que son un fraude y que no se merecen el éxito que han logrado. __El síndrome del impostor es particularmente común en las mujeres.__
 
-Para combatir al síndoorme del impostor:
+Para combatir al síndrome del impostor:
 - No aceptes a ningún aprendiz diciendo que ellos son demasiado 'lo que sea' para hacerlo; asegúrales que son capaces de hacerlo.
 - Felicita a las personas ante sus logros y tómate algo de tiempo para mostrarles lo que han conseguido.
 - Felicita su trabajo.
@@ -107,18 +107,18 @@ Para combatir al síndoorme del impostor:
 
 ### Respondiendo a preguntas
 
-No pongas tus ojos en blanco o tte rías de una pregunta. No debatimos sobre qué lenguaje de programación es métodos o tecnologías son "mejores".
+No pongas tus ojos en blanco o te rías de una pregunta. No debatimos sobre qué lenguaje de programación, métodos o tecnologías son "mejores".
 
 Siempre respondemos __postitivamente__:
 - Me alegra que preguntes eso
 - Excelente pregunta
-- Hm, No estoy seguro... Vamos a mirar en internet/preguntar a otra persona.
+- Hm, no estoy seguro... Vamos a mirar en internet/preguntar a otra persona.
 
 ### No conduzcas desde el asiento de atrás
 
-Imagina que tu teclado está hecho de lava. ¡LAVA! No lo tocarías, ¿verdad?
+Imagina que su teclado está hecho de lava. ¡LAVA! No lo tocarías, ¿verdad?
 
-Desde donde sea que uses el traclado de otros, los alumnos se apartarán. Esto puede ser desagradable e incluso intimidante.
+Desde donde sea que uses el teclado de otros, los alumnos se apartarán. Esto puede ser desagradable e incluso intimidante.
 
 Estamos seguros que puede explicar lo que se tiene que hacer e instruir a tus alomnos únicamente con tus palabras (¡En realidad es un buen ejercico incluso para ti!). Si, de forma imperativa, **debes** escribir algo en su computadora — a veces sucede — pregúntales si no existe ningún inconveniente y explícales lo que estás haciendo.
 
@@ -126,10 +126,10 @@ Pregunta: "¿No te importa que teclee?" o "¿Podría?".
 
 ### Muéstrales como pueden enseñarse a si mismos
 
-Los alumnos solo compartirán alrededor de 8 horas contigo, peroo ellos tendrán que pasar muchas muchas muchas más horas enseñándose a si mismos. Afortunadamente, ¡puedes hacer que esto se más sencillo para todas ellas!
+Los alumnos solo compartirán alrededor de 8 horas contigo, pero ellos tendrán que pasar muchas muchas muchas más horas enseñándose a si mismos. Afortunadamente, ¡puedes hacer que esto sea más sencillo para todas ellas!
 
-__Hazles usar un buscador ppara encontrar cosas__ - no les des respuestas inmediatas solo para hacer que las cosas vayan más rápido. No pasa nada si estás yendo más rápido o más despacio -- lo que importa es si se van a enamorar de lo que estás enseñando o no.
+__Hazles usar un buscador para encontrar cosas__ - no les des respuestas inmediatas solo para hacer que las cosas vayan más rápido. No pasa nada si estás yendo más rápido o más despacio -- lo que importa es si se van a enamorar de lo que estás enseñando o no.
 
-__Pregúntales sobre sus ideas__ - "¿Cómo lo resolverías?", "¿Qué crees?". Deja que piensen las cosas por si mismmas. Tú sabes que lo saben, ¿verdad?
+__Pregúntales sobre sus ideas__ - "¿Cómo lo resolverías?", "¿Qué crees?". Deja que piensen las cosas por si mismas. Tú sabes que lo saben, ¿verdad?
 
-__Anímales a realizar sus propios cambios y a desviarse ligeramente del tutorial si es adecuado__ - Si intentan dar algún rodeo y no se sigue el tutorial a cada paso aprenderán mucho mucho más. Es sencillo copiar-pegar algo de código y colocarlo en ell lugar adecuado. Es más complicado añadir algo a partir de tu propio criterio y hacer que funcione.
+__Anímales a realizar sus propios cambios y a desviarse ligeramente del tutorial si es adecuado__ - Si intentan dar algún rodeo y no se sigue el tutorial a cada paso aprenderán mucho mucho más. Es sencillo copiar-pegar algo de código y colocarlo en el lugar adecuado. Es más complicado añadir algo a partir de tu propio criterio y hacer que funcione.
