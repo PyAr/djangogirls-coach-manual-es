@@ -1,15 +1,15 @@
 # ¿Cómo puedes llegar a ser un guía Django Girls?
 
-Para convertirte en una guíaa Django Girls todo lo que tienes que hacer es:
+Para convertirte en una guía Django Girls todo lo que tienes que hacer es:
 
 * ve a la página djangogirls.org y busca cualquier evento en el que puedas prestar tu ayuda
-* rellena el formulario para guíaes del evento
+* rellena el formulario para guías en la página web del evento
 
 O, si prefieres, nos puedes escribir unas líneas a hello@djangogirls.org y preguntarnos por eventos próximos.
 
 La mayoría de nuestros eventos se realizan en inglés, por lo que esperamos que lo hables de forma fluida. Sin embargo, es posible que algunos eventos locales se hagan en otros idiomas - deberías preguntar a los organizadores locales del evento acerca de ello (usa la dirección de correo electrónico específica que encontrarás en la página del evento).
 
-## ¿Cuánto tiempo necesitarás para ser un guía?
+## ¿Cuánto tiempo necesitarás invertir para ser un guía?
 
 Django Girls ha sido diseñado para ser un taller de un día de duración. Sin embargo, a veces, el evento podría durar dos días o podría haber un pequeño evento previo de instalación el día anterior. Además del tiempo que estarás formando, hay una serie de cosas que deberás tener en cuenta las cuales te quitarán algo de tu tiempo:
 
@@ -34,7 +34,7 @@ El tutorial cubre:
 
 # Instalación previa al taller
 
-¡Hay un montón que aprender en el tutorial!  Los alumnos tendrán más tiempo para aprender durante el taller si vienen con todo lo que necesiten ya instalado.  La mayoría de eventos Django Girls incluyen una quedada previa la tarde-noche anterior o en los días previos, ahí podrás ayudar a tu grupo en tareas de instalación y en probar a ver si su sistema está listo. Esto podría hacerse en persona o por Skype/Google hangout, etc.
+¡Hay un montón que aprender en el tutorial!  Los alumnos tendrán más tiempo para aprender durante el taller si vienen con todo lo que necesiten ya instalado.  La mayoría de eventos Django Girls incluyen una reunión previa la tarde-noche anterior o en los días previos, donde puedes ayudar a tu grupo con la instalación y verificar que sus sistemas esten listos. Esto podría hacerse en persona o por Skype/Google hangout, etc.
 
 Recomendamos dirigir a los alumnos al [capítulo de instalación](http://tutorial.djangogirls.org/en/installation/index.html) previamente a la celebración del evento, esto les permitirá seguir algunos pasos previos y algún material introductorio. Por supuesto, sería adecuado poder discutir el material y responder cualquier pregunta que exista ya que queremos que sean capaces de escribir código inmediatamente!
 
