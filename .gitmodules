@@ -1,3 +1,6 @@
 [submodule "original"]
 	path = original
 	url = git@github.com:DjangoGirls/coach-manual.git
+[submodule "pandoc-bootstrap-template"]
+	path = pandoc-bootstrap-template
+	url = https://github.com/tonyblundell/pandoc-bootstrap-template
