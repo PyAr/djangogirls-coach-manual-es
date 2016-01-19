@@ -1,12 +1,11 @@
-# Manual de Guía Django Girls Django Girls Coaching Manual
-
+# Manual de Guía Django Girls
 
 Este manual es un conjunto de tips y trucos útiles que los Guías
 Django Girls pueden usar. Ser un guía es una tarea muy difícil y por
 eso hemos recolectado muchas cosas que hemos aprendido durante los
 talleres para compartir contigo.
 
-Esta manual también está basado en estos maravillosos recursos:
+Este manual también está basado en estos maravillosos recursos:
 
 - [Hacker School User's Manual](https://www.hackerschool.com/manual)
 - [Rails Bridge Teacher Training](http://curriculum.railsbridge.org/workshop/more_teacher_training)
@@ -31,7 +30,7 @@ necesitas:
 - ¡Tiempo libre durante el fin de semana!
 - ¡Curiosidad!
 
-## ¿Por qué debería ser una guía de las Django Girls?
+## ¿Por qué debería ser una Guía Django Girls?
 
 ¿Quieres decir además de tener un montón de buen karma? Estos son
 algunos resultados muy probables:

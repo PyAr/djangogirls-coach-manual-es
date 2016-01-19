@@ -1,26 +1,26 @@
 # Guía para el guía, consejos prácticos
 
-Siempre que sea posible queremos que nuestros guíaes sigan una sería
+Siempre que sea posible queremos que nuestros guías sigan una sería
 de pautas.
 
-### ¡Manos a la obra! Formando Vs Enseñando
+### ¡Manos a la obra! Formando vs. Enseñando
 
 Durante el taller trabajarás en pequeños grupos con tres
 aprendices. Este es un taller orientado hacia la experiencia y a
 aprender haciendo. Estarás situada en los laterales en lugar de estar
 frente a ellas.
 
-Los guíaes deben estar 100% enfocados en sus aprendices y estar
-siempre disponibles para ellos. Aségurate de que su experiencia sea
+Los guías deben estar 100% enfocados en sus aprendices y estar
+siempre disponibles para ellos. Asegúrate de que su experiencia sea
 positiva y se diviertan. No juzgues, sé útil y aprecia sus
 (in-)capacidades.
 
-### Sé Flexible y Accesible
+### Sé flexible y accesible
 
-Para los alumnos que tienen alguna discapacidad auditiva o deséan
+Para los alumnos que tienen alguna discapacidad auditiva o desean
 beneficiarse de otras formas de comunicación diferentes al habla,
 debes estar preparado para usar una forma de comunicación basada en
-texto. Dáles tu cuenta en Google Hangout o Skype y anímales a
+texto. Dales tu cuenta en Google Hangout o Skype y anímales a
 escribirte un mensaje cuando necesiten ayuda. (¡y recuerda traer un PC
 portátil de forma que puedas chequear tus mensajes de texto!)
 
@@ -54,7 +54,7 @@ que los niños no serían capaces de entender.
 #### Ni digas "es sencillo..." o "solo..."
 
 Para tus aprendices quizá sea la cosa más compleja que jamás hayan
-hecho. Diciéndoles que algo "es super fácil" no está bien.  Decir
+hecho. Diciéndoles que algo "es súper fácil" no está bien.  Decir
 "solo…" sugiere que es simple y fallarán si encuentran que es difícil
 de entender.
 
@@ -64,14 +64,14 @@ No te sorprendas cuando alguien diga que no entienda algo. No saber
 algo (técnico o no) es algo totalmente aceptable para las Django
 Girls.
 
-Éstate preparada para preguntas del tipo: "¿Qué es un directorio?" o
-"¿Cómo puedo crear un fichero?".
+Prepárate para preguntas del tipo: "¿Qué es un directorio?" o "¿Cómo
+puedo crear un fichero?".
 
 #### No 'Bueno, en realidad...'
 
 Un 'Bueno, en realidad...' ocurre cuando alguien dice algo que es
 casi - pero no completamente - correcto, y tú dices, "Bueno, en
-realidad…" y, acontinuación, proporcionas una pequeña corrección. Esto
+realidad…" y, a continuación, proporcionas una pequeña corrección. Esto
 es especialmente molesto cuando la corrección es irrelevante en la
 conversación que se está teniendo.
 
@@ -80,9 +80,9 @@ conversación que se está teniendo.
 "-isimos" imperceptibles son pequeñas cosas que provocan que otros
 estén incómodos, cosas que todos hacemos a veces por error. Por
 ejemplo, decir "Es tan fácil que mi abuela podría hacerlo" es un
-"-isimo" imperceptible (como decir que es facil-ísimo). Como otras
+"-isimo" imperceptible (como decir que es fácil-ísimo). Como otras
 tres normas sociales, esta la rompemos de forma accidental. Como las
-otras tres, no conviene hacerse un lio, simplemente nos disculpamos y
+otras tres, no conviene hacerse un lió, simplemente nos disculpamos y
 continuamos.
 
 > Las dos secciones anteriores vienen de
@@ -172,7 +172,7 @@ progresar.
 
 #### Síndrome del impostor
 
-La investigación de Madeline Kunin: las mujeres se autoexcluyen más
+La investigación de Madeline Kunin: las mujeres se auto excluyen más
 que los hombres.
 
 El síndrome del impostor es un fenómeno psicológico en el cual la
@@ -195,10 +195,10 @@ No pongas tus ojos en blanco o te rías de una pregunta. No debatimos
 sobre qué lenguaje de programación, métodos o tecnologías son
 "mejores".
 
-Siempre respondemos __postitivamente__:
+Siempre respondemos __positivamente__:
 - Me alegra que preguntes eso
 - Excelente pregunta
-- Hm, no estoy seguro... Vamos a mirar en internet/preguntar a otra
+- Mm, no estoy seguro... Vamos a mirar en internet/preguntar a otra
   persona.
 
 ### No conduzcas desde el asiento de atrás
@@ -210,8 +210,8 @@ Desde donde sea que uses el teclado de otros, los alumnos se
 apartarán. Esto puede ser desagradable e incluso intimidante.
 
 Estamos seguros que puede explicar lo que se tiene que hacer e
-instruir a tus alomnos únicamente con tus palabras (¡En realidad es un
-buen ejercico incluso para ti!). Si, de forma imperativa, **debes**
+instruir a tus alumnos únicamente con tus palabras (¡En realidad es un
+buen ejercicio incluso para ti!). Si, de forma imperativa, **debes**
 escribir algo en su computadora — a veces sucede — pregúntales si no
 existe ningún inconveniente y explícales lo que estás haciendo.
 
