@@ -41,7 +41,7 @@ tiempo:
 
 Durante los eventos Django Girls usamos un tutorial que fue escrito
 específicamente para estos talleres. Lo puedes encontrar aquí:
-[tutorial.djangogirls.org](http://tutorial.djangogirls.org/)
+[https://argentinaenpython.com/django-girls/tutorial/](https://argentinaenpython.com/django-girls/tutorial/)
 
 Durante la realización del taller, deberías ser capaz de realizar el
 tutorial completo en 7-8 horas.  El tutorial incluye escribir un blog
@@ -68,7 +68,7 @@ su sistema está listo. Esto podría hacerse en persona o por
 Skype/Google hangout, etc.
 
 Recomendamos dirigir a los alumnos al
-[capítulo de instalación](http://tutorial.djangogirls.org/en/installation/index.html)
+[capítulo de instalación](https://argentinaenpython.com/django-girls/tutorial/installation/)
 previamente a la celebración del evento, esto les permitirá seguir
 algunos pasos previos y algún material introductorio. Por supuesto,
 sería adecuado poder discutir el material y responder cualquier

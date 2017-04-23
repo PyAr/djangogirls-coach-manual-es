@@ -26,7 +26,7 @@ necesitas:
   para principiantes (incluso si eso significa que la respuesta no sea
   técnicamente precisa) a lo largo de la duración del taller.
 - Algún tiempo para revisar el
-  [Tutorial](http://tutorial.djangogirls.org) antes del evento.
+  [Tutorial](https://argentinaenpython.com/django-girls/tutorial/) antes del evento.
 - ¡Tiempo libre durante el fin de semana!
 - ¡Curiosidad!
 

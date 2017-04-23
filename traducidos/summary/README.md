@@ -15,7 +15,7 @@ esta manera te olvidarás. Créenos, todos hemos estado en esa
 situación.
 
 Si, por alguna razón, no lo puedes hacer inmediatamente,
-[al menos informa sobre el problema (issue)](https://github.com/DjangoGirls/tutorial/issues). El
+[al menos informa sobre el problema (issue)](https://github.com/humitos/tutorial/issues). El
 tutorial está siendo mejorado de forma significativa después de cada
 evento que realizamos. Es importante.
 
@@ -27,7 +27,7 @@ taller y estaremos encantadas de escuchar tus experiencias como guía.
 Por favor, comparte todo lo que aprendas con el resto. De esa forma,
 el tutorial será cada vez mejor y más completo.
 
-Envíanos unas líneas a hello@djangogirls.org.
+Envíanos unas líneas a argentinaenpython@openmailbox.org.
 
 ## Mantén el contacto con tu grupo
 

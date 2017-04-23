@@ -1,0 +1,21 @@
+{
+  "gitbook": ">=3.2.0",
+  "pdf": {
+    "fontSize": 14
+  },
+  "plugins": [
+    "heading-anchors@1.0.3",
+    "richquotes@0.0.7",
+    "github@2.0.0",
+    "codeblock-label",
+    "sectionx"
+  ],
+  "pluginsConfig": {
+    "richquotes": {
+      "default": false
+    },
+    "github": {
+      "url": "https://github.com/PyAr/djangogirls-coach-manual-es"
+    }
+  }
+}
