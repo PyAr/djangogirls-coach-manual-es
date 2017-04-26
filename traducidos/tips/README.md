@@ -246,3 +246,85 @@ sigue el tutorial a cada paso aprenderán mucho mucho más. Es sencillo
 copiar-pegar algo de código y colocarlo en el lugar adecuado. Es más
 complicado añadir algo a partir de tu propio criterio y hacer que
 funcione.
+
+### Meta guías
+
+Dependiendo de la decisión del organizador y el número de voluntarios,
+algunos talleres pueden tener meta guías, quienes no están asignados
+a ningún grupo. Por lo que están más disponibles, ya que no tienen su
+propio grupo, a menudo ellos tienen más experiencia con la depuración
+de problemas técnicos, así que siéntete libre de pedirles ayuda si un
+estudiante se queda atascado.
+
+#### Consejos para meta guías
+
+Nota que como el nombre "meta guía" implica, su función principal es ser
+un guia para los guías. Esto quiere decir que todas las reglas de guías,
+consejos y trucos en este manual aplican: los meta guías están disponibles
+para ayudar, no para para hacerse cargo. Siempre debes informar y comunicar
+al guía antes de ayudar a un miembro de su grupo, idealmente trabajando 
+juntos en el problema. Este enfoque asegura que los guías permanezcan
+capacitados y además que los estudiantes obtengan ayuda, los guías se
+convierten en mejores guías. ¡Una receta perfecta para un meta guía!
+
+Preséntate con los guías uno-por-uno en el pre-evento (si hay uno), o al
+inicio del taller (como todos sigan llegando), para asegurarte que ellos
+saben que pueden hacerte preguntas. También es un buen momento para
+preguntarles si tuvieron algún problema técnico con la instalación. Algunos
+problemas que parecen menores durante la instalación pueden causar mayores
+problemas más tarde, lo cual puede significar tener que repetir una gran
+parte del tutorial para arreglarlo, potencialmente re-instalar python,
+virtualenv, django, etc. (otros pequeños problemas permanecen pequeños,
+así que en muchos casos pequeñas desviaciones de los pasos del tutorial 
+de instalación están bien).
+
+Como un meta guía, espera tener algún tiempo de ocio durante el taller, 
+es decir, es posible que te aburras en ciertos puntos - esto es algo bueno,
+ya que significa que todo está yendo bien y además que estás disponible
+para responder preguntas a medida que surjan en lugar de que los participantes
+o guías tengan que interrumpirte mientras ayudas a alguien. Nuestra
+experiencia es que la mayoría de preguntas y problemas vienen durante la
+instalación (antes o al principio del taller) y el capítulo de despliegue,
+pero entre estos, espera tener periodos más lentos.
+
+Muchas de las preguntas serán sobre problemas técnicos: bugs, incompatibilidades
+de una versión, etc. A veces éstas son buenas oportunidades para explicar
+algún detalle técnico, pero a menudo van a ser algún molesto detalle que se
+interpone en el camino de seguir con el resto del tutorial. Tendrás que juzgar
+la postura de los participantes a la pregunta para poder ofrecer el mejor
+soporte: ¿Quieren aprender cómo resolver el problema por ellos mismos, o sólo
+quieren agitar una varita mágica y seguir avanzando? Aunque el objetivo del
+taller no es finalizar el tutorial, y tratar con los problemas técnicos
+puede ser una buena experiencia para aprender, a veces "agitar una varita
+mágica" puede ser la opción correcta ya que tratar con problemas técnicos
+puede ser frustrante. Sin embargo, asegúrate que es el participante y no tú
+quién toma esa decisión.
+
+Esto también significa que a menudo una solución rápida podría ser una mejor
+idea que algunas soluciones idealizadas como "correctas", lo cual puede tomar
+mucho tiempo. Usa tu mejor juicio para decidir cuando alguna solución rápida
+resolverá el problema (incluyendo si esto causará algún problema en los siguientes
+pasos del tutorial) y cuando intentar una más completa.
+
+Nota que dado que los participantes están usando sus propias laptops, las
+configuraciones de sus sistemas y el software instalado pueden causar problemas
+cuando se siga el tutorial. También nota que el software instalado y las 
+configuraciones hechas durante el tutorial pueden afectar a otras tareas 
+para las cuales usen sus laptops después del taller. Tanto como sea posible,
+evita cambios que puedan romper algún otro software que esté instalado
+en la laptop y ten mucho cuidado con cambiar las configuraciones del
+sistema. Tener un participante que sienta que el taller "rompió su laptop"
+!sería bastante catastrófico!
+
+A menudo te preguntarán sólo para confirmar - "esta otra versión funcionará / 
+esto romperá algo" - dependiendo de los aspectos técnicos, este sería un buen
+momento para advertir (por ejemplo, cuando usar python 2.x en lugar de 3.x) o
+tranquilizar (por ejemplo python 3.4.8 en lugar de python 3.4.7). Cuando
+manejes preguntas como estas, asegúrate de reconocer que el problema planteado
+es válido, y si es posible explica por qué consideras que el riesgo de rotura
+es alto o bajo.
+
+Si muchos participantes tienen el mismo problema, pro-activamente advierte
+a otros guías y grupos. Por ejemplo, ocasionalmente un cambio de versión
+afecta algún comportamiento que el tutorial asume, lo cuál significa que
+un problema podría no estar aislado al computador de un único participante.
