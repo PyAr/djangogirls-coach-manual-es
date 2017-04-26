@@ -170,6 +170,13 @@ qué?".
 También, el miedo a cometer errores provoca que la gente se enfoque en
 progresar.
 
+#### ¡No estoy acostumbrado a trabajar con Windows!
+
+¿Tu grupo está usando Windows pero eres más un usuario de Mac o Linux?
+No te preocupes, ¡lo harás bien! La instalación de Python en Windows 
+ahora es más fácil y hay otros guías para ayudarte en caso de algún
+problema.
+
 #### Síndrome del impostor
 
 La investigación de Madeline Kunin: las mujeres se auto excluyen más
