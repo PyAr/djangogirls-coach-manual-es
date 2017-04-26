@@ -27,7 +27,7 @@ taller y estaremos encantadas de escuchar tus experiencias como guía.
 Por favor, comparte todo lo que aprendas con el resto. De esa forma,
 el tutorial será cada vez mejor y más completo.
 
-Envíanos unas líneas a argentinaenpython@openmailbox.org.
+Envíanos unas líneas a <argentinaenpython@openmailbox.org>.
 
 ## Mantén el contacto con tu grupo
 
