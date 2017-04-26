@@ -51,11 +51,11 @@ tiempo.
 Es difícil, pero es posible. No uses palabras y terminología técnica
 que los niños no serían capaces de entender.
 
-#### Ni digas "es sencillo..." o "solo..."
+#### Ni digas "es sencillo..." o "sólo..."
 
 Para tus aprendices quizá sea la cosa más compleja que jamás hayan
-hecho. Diciéndoles que algo "es súper fácil" no está bien.  Decir
-"solo…" sugiere que es simple y fallarán si encuentran que es difícil
+hecho. Diciéndoles que algo "es sencillo" no está bien. Decir
+"sólo..." sugiere que es simple y fallarán si encuentran que es difícil
 de entender.
 
 #### No finjas sorpresa
@@ -67,22 +67,22 @@ Girls.
 Prepárate para preguntas del tipo: "¿Qué es un directorio?" o "¿Cómo
 puedo crear un fichero?".
 
-#### No 'Bueno, en realidad...'
+#### No "Bueno, en realidad..."
 
-Un 'Bueno, en realidad...' ocurre cuando alguien dice algo que es
+Un "Bueno, en realidad..." ocurre cuando alguien dice algo que es
 casi - pero no completamente - correcto, y tú dices, "Bueno, en
-realidad…" y, a continuación, proporcionas una pequeña corrección. Esto
-es especialmente molesto cuando la corrección es irrelevante en la
+realidad..." y, a continuación, proporcionas una pequeña corrección.
+Esto es especialmente molesto cuando la corrección es irrelevante en la
 conversación que se está teniendo.
 
-#### No "-isimos" imperceptibles
+#### No "-ísimos" imperceptibles
 
-"-isimos" imperceptibles son pequeñas cosas que provocan que otros
+"-ísimos" imperceptibles son pequeñas cosas que provocan que otros
 estén incómodos, cosas que todos hacemos a veces por error. Por
 ejemplo, decir "Es tan fácil que mi abuela podría hacerlo" es un
-"-isimo" imperceptible (como decir que es fácil-ísimo). Como otras
+"-ísimo" imperceptible (como decir que es fácil-ísimo). Como otras
 tres normas sociales, esta la rompemos de forma accidental. Como las
-otras tres, no conviene hacerse un lió, simplemente nos disculpamos y
+otras tres, no conviene hacerse un lío, simplemente nos disculpamos y
 continuamos.
 
 > Las dos secciones anteriores vienen de
