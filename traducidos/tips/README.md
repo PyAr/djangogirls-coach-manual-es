@@ -21,7 +21,7 @@ Para los alumnos que tienen alguna discapacidad auditiva o desean
 beneficiarse de otras formas de comunicación diferentes al habla,
 debes estar preparado para usar una forma de comunicación basada en
 texto. Dales tu cuenta en Google Hangout o Skype y anímales a
-escribirte un mensaje cuando necesiten ayuda. (¡y recuerda traer un PC
+escribirte un mensaje cuando necesiten ayuda. (¡Y recuerda traer un PC
 portátil de forma que puedas chequear tus mensajes de texto!)
 
 Los alumnos con discapacidad visual podrían aumentar el tamaño del
@@ -48,7 +48,7 @@ tiempo.
 
 #### No uses jerga
 
-Es difícil pero es posible. No uses palabras y terminología técnica
+Es difícil, pero es posible. No uses palabras y terminología técnica
 que los niños no serían capaces de entender.
 
 #### Ni digas "es sencillo..." o "solo..."
@@ -225,17 +225,17 @@ mismos. Afortunadamente, ¡puedes hacer que esto sea más sencillo para
 todas ellas!
 
 __Hazles usar un buscador para encontrar cosas__ - no les des
-respuestas inmediatas solo para hacer que las cosas vayan más
+respuestas inmediatas sólo para hacer que las cosas vayan más
 rápido. No pasa nada si estás yendo más rápido o más despacio -- lo
 que importa es si se van a enamorar de lo que estás enseñando o no.
 
 __Pregúntales sobre sus ideas__ - "¿Cómo lo resolverías?", "¿Qué
-crees?". Deja que piensen las cosas por si mismas. Tú sabes que lo
+crees?". Deja que piensen las cosas por sí mismas. Tú sabes que lo
 saben, ¿verdad?
 
 __Anímales a realizar sus propios cambios y a desviarse ligeramente
-del tutorial si es adecuado__ - Si intentan dar algún rodeo y no se
-sigue el tutorial a cada paso aprenderán mucho mucho más. Es sencillo
+del tutorial si es adecuado__ - Si intentan dar algún rodeo y no
+siguen el tutorial a cada paso, aprenderán mucho mucho más. Es sencillo
 copiar-pegar algo de código y colocarlo en el lugar adecuado. Es más
 complicado añadir algo a partir de tu propio criterio y hacer que
 funcione.

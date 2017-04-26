@@ -44,7 +44,7 @@ específicamente para estos talleres. Lo puedes encontrar aquí:
 <https://argentinaenpython.com/django-girls/tutorial/>
 
 Durante la realización del taller, deberías ser capaz de realizar el
-tutorial completo en 7-8 horas.  El tutorial incluye escribir un blog
+tutorial completo en 7-8 horas. El tutorial incluye escribir un blog
 completo en Django y desplegarlo en PythonAnywhere.
 
 El tutorial cubre:

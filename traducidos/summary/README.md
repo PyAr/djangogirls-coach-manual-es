@@ -1,7 +1,7 @@
 # Después del taller
 
 Si no te molesta dedicar algo de tiempo ayudando a otras personas
-después del taller te animamos a que estés disponible con tu
+después del taller, te animamos a que sigas en contacto con tu
 equipo. Es genial disponer de un tutor - alguien a quien poder
 preguntar si te has quedado atascado en algún punto.
 
