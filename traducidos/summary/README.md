@@ -10,13 +10,12 @@ preguntar si te has quedado atascado en algún punto.
 De hecho, es útil hacerlo incluso **durante el taller**. Si ves que
 hay algo erróneo en el tutorial, tómate 5 minutos para mandar un Pull
 Request inmediatamente. O incluso mejor: ¡Enseña a tu grupo como poder
-hacerlo! Es importante hacerlo *inmediatamente*, si no lo haces de
-esta manera te olvidarás. Créenos, todos hemos estado en esa
-situación.
+hacerlo! Es importante hacerlo *inmediatamente*, de lo contrario te
+olvidarás. Créenos, todos hemos estado en esa situación.
 
 Si, por alguna razón, no lo puedes hacer inmediatamente,
-[al menos informa sobre el problema (issue)](https://github.com/humitos/tutorial/issues). El
-tutorial está siendo mejorado de forma significativa después de cada
+[al menos informa sobre el problema (issue)](https://github.com/humitos/tutorial/issues).
+El tutorial está siendo mejorado de forma significativa después de cada
 evento que realizamos. Es importante.
 
 ## Comparte tus experiencias con nosotros

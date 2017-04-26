@@ -36,8 +36,8 @@ haga saber!"
 Por momentos, los alumnos pueden llegar a estar abrumados. ¡Este es el
 porqué de que existan descansos dentro del horario! Si crees que un
 alumno está empezando a frustrarse y le beneficiaría un descanso,
-hazles saber de que está bien que se pare durante unos minutos, toma
-un sorbo de agua y vuelva a la tarea. Algunas veces, el solo
+hazles saber de que está bien que paren durante unos minutos, tomen
+un sorbo de agua y vuelvan a la tarea. Algunas veces, el solo
 movimiento de tu cuerpo puede ayudar a que los conocimientos
 cristalicen.
 
@@ -111,30 +111,29 @@ amigas. Esta aproximación nos llevará a un largo camino más tarde.
 El último objetivo del taller no es crear una página web. No es
 enseñar Django al completo. Tampoco es enseñar a programar.
 
-El último objetivo es mostrar que el código es divertido. __Para tener
-a la gente excitada.__ Para enseñar a la gente que programar no es
+El objetivo final es mostrar que el código es divertido. __Para tener
+a la gente emocionada.__ Para enseñar a la gente que programar no es
 algo a temer y que puede ser para todo el mundo. Sirve para enseñar lo
 poderoso que puede llegar a ser disponer de habilidades en
 programación.
 
-Esta excitación y pasión nos conducirá a pasar interminables horas a
-entender todo esto durante el taller y posteriormente.
+Esta emoción y pasión les conducirá a pasar interminables horas a
+entender todo esto durante y después del taller.
 
 ### Atmósfera
 
-La excitación puede ser buena mientras que el estrés puede ser
-contraproducente para aprender. Realmente nos preocupa la atmósfera y
-dar a nuestros alumnos una primera experiencia maravillosa escribiendo
-código.
+La emoción es buena, pero el estrés puede ser contraproducente para
+aprender. Realmente nos preocupa la atmósfera y en dar a nuestros
+alumnos una primera experiencia maravillosa escribiendo código.
 
 Imagina lo siguiente: Estás intentando hacer algo complejo. Estás en
 una habitación llena de extraños que saben la forma de hacerlo mejor
 que tú. No sabes como articular tus preguntas. No conoces los nombres
 correctos para cualquier cosa.
 
-Para la mayoría de gente esta es una situación incómoda y
-estresante. ¡Pero no debería ser así! Estamos ahí para hacer que esto
-sea sencillo. Esto es lo que puedes hacer:
+Para la mayoría de gente esta es una situación incómoda y estresante.
+¡Pero no debería ser así! Estamos ahí para hacer que esto sea sencillo.
+Esto es lo que puedes hacer:
 
 - ¡Sonríe!
 - Haz contacto visual
@@ -167,8 +166,7 @@ nos mantiene callados y no permite que realicemos preguntas
 importantes como "¿Cómo funciona eso?" o incluso, simplemente, "¿por
 qué?".
 
-También, el miedo a cometer errores provoca que la gente se enfoque en
-progresar.
+También, el miedo a cometer errores evita que la gente progrese.
 
 #### Síndrome del impostor
 
@@ -212,8 +210,8 @@ apartarán. Esto puede ser desagradable e incluso intimidante.
 Estamos seguros que puede explicar lo que se tiene que hacer e
 instruir a tus alumnos únicamente con tus palabras (¡En realidad es un
 buen ejercicio incluso para ti!). Si, de forma imperativa, **debes**
-escribir algo en su computadora — a veces sucede — pregúntales si no
-existe ningún inconveniente y explícales lo que estás haciendo.
+escribir algo en su computadora — lo más probable es que no — pregúntales
+si no existe ningún inconveniente y explícales lo que estás haciendo.
 
 Pregunta: "¿No te importa que teclee?" o "¿Podría?".
 
