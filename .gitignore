@@ -57,3 +57,7 @@ docs/_build/
 target/
 *~
 django-coach-spanish.html
+
+# Gitbook
+traducidos/_book/
+traducidos/node_modules/
