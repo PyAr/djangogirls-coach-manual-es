@@ -266,7 +266,7 @@ capacitados y además que los estudiantes obtengan ayuda, los guías se
 convierten en mejores guías. ¡Una receta perfecta para un meta guía!
 
 Preséntate con los guías uno-por-uno en el pre-evento (si hay uno), o al
-inicio del taller (como todos sigan llegando), para asegurarte que ellos
+inicio del taller (mientras todo el mundo va llegando), para asegurarte que ellos
 saben que pueden hacerte preguntas. También es un buen momento para
 preguntarles si tuvieron algún problema técnico con la instalación. Algunos
 problemas que parecen menores durante la instalación pueden causar mayores
@@ -287,8 +287,8 @@ pero entre estos, espera tener periodos más lentos.
 
 Muchas de las preguntas serán sobre problemas técnicos: bugs, incompatibilidades
 de una versión, etc. A veces éstas son buenas oportunidades para explicar
-algún detalle técnico, pero a menudo van a ser algún molesto detalle que se
-interpone en el camino de seguir con el resto del tutorial. Tendrás que juzgar
+algún detalle técnico, pero a menudo van a ser detalles molestos que se
+interpondrán en el camino de seguir con el resto del tutorial. Tendrás que juzgar
 la postura de los participantes a la pregunta para poder ofrecer el mejor
 soporte: ¿Quieren aprender cómo resolver el problema por ellos mismos, o sólo
 quieren agitar una varita mágica y seguir avanzando? Aunque el objetivo del
