@@ -8,7 +8,8 @@ es:
 * rellena el formulario para guías del evento
 
 O, si prefieres, nos puedes escribir unas líneas a
-<hello@djangogirls.org> y preguntarnos por próximos eventos.
+<argentinaenpython@openmailbox.org> y preguntarnos por próximos
+eventos.
 
 La mayoría de nuestros eventos se realizan en inglés, por lo que
 esperamos que lo hables de forma fluida. Sin embargo, es posible que
