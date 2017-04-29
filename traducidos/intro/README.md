@@ -8,7 +8,8 @@ es:
 * rellena el formulario para guías del evento
 
 O, si prefieres, nos puedes escribir unas líneas a
-hello@djangogirls.org y preguntarnos por próximos eventos.
+<argentinaenpython@openmailbox.org> y preguntarnos por próximos
+eventos.
 
 La mayoría de nuestros eventos se realizan en inglés, por lo que
 esperamos que lo hables de forma fluida. Sin embargo, es posible que
@@ -41,10 +42,10 @@ tiempo:
 
 Durante los eventos Django Girls usamos un tutorial que fue escrito
 específicamente para estos talleres. Lo puedes encontrar aquí:
-[https://argentinaenpython.com/django-girls/tutorial/](https://argentinaenpython.com/django-girls/tutorial/)
+<https://argentinaenpython.com/django-girls/tutorial/>
 
 Durante la realización del taller, deberías ser capaz de realizar el
-tutorial completo en 7-8 horas.  El tutorial incluye escribir un blog
+tutorial completo en 7-8 horas. El tutorial incluye escribir un blog
 completo en Django y desplegarlo en PythonAnywhere.
 
 El tutorial cubre:
@@ -63,9 +64,9 @@ El tutorial cubre:
 tiempo para aprender durante el taller si vienen con todo lo que
 necesiten ya instalado. La mayoría de eventos Django Girls incluyen
 una reunión previa la tarde-noche anterior o en los días previos, ahí
-podrás ayudar a tu grupo en tareas de instalación y en probar a ver si
-su sistema está listo. Esto podría hacerse en persona o por
-Skype/Google hangout, etc.
+podrás ayudar a tu grupo en tareas de instalación y comprobar si su
+sistema está listo. Esto podría hacerse en persona o por Skype/Google
+hangout, etc.
 
 Recomendamos dirigir a los alumnos al
 [capítulo de instalación](https://argentinaenpython.com/django-girls/tutorial/installation/)

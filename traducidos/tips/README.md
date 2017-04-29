@@ -21,7 +21,7 @@ Para los alumnos que tienen alguna discapacidad auditiva o desean
 beneficiarse de otras formas de comunicación diferentes al habla,
 debes estar preparado para usar una forma de comunicación basada en
 texto. Dales tu cuenta en Google Hangout o Skype y anímales a
-escribirte un mensaje cuando necesiten ayuda. (¡y recuerda traer un PC
+escribirte un mensaje cuando necesiten ayuda. (¡Y recuerda traer un PC
 portátil de forma que puedas chequear tus mensajes de texto!)
 
 Los alumnos con discapacidad visual podrían aumentar el tamaño del
@@ -36,8 +36,8 @@ haga saber!"
 Por momentos, los alumnos pueden llegar a estar abrumados. ¡Este es el
 porqué de que existan descansos dentro del horario! Si crees que un
 alumno está empezando a frustrarse y le beneficiaría un descanso,
-hazles saber de que está bien que se pare durante unos minutos, toma
-un sorbo de agua y vuelva a la tarea. Algunas veces, el solo
+hazles saber de que está bien que se levanten durante unos minutos,
+tomen un sorbo de agua y vuelvan a la tarea. Algunas veces, el solo
 movimiento de tu cuerpo puede ayudar a que los conocimientos
 cristalicen.
 
@@ -48,14 +48,14 @@ tiempo.
 
 #### No uses jerga
 
-Es difícil pero es posible. No uses palabras y terminología técnica
+Es difícil, pero es posible. No uses palabras y terminología técnica
 que los niños no serían capaces de entender.
 
-#### Ni digas "es sencillo..." o "solo..."
+#### Ni digas "es sencillo..." o "sólo..."
 
 Para tus aprendices quizá sea la cosa más compleja que jamás hayan
-hecho. Diciéndoles que algo "es súper fácil" no está bien.  Decir
-"solo…" sugiere que es simple y fallarán si encuentran que es difícil
+hecho. Diciéndoles que algo "es sencillo" no está bien. Decir
+"sólo..." sugiere que es simple y fallarán si encuentran que es difícil
 de entender.
 
 #### No finjas sorpresa
@@ -67,22 +67,22 @@ Girls.
 Prepárate para preguntas del tipo: "¿Qué es un directorio?" o "¿Cómo
 puedo crear un fichero?".
 
-#### No 'Bueno, en realidad...'
+#### No "Bueno, en realidad..."
 
-Un 'Bueno, en realidad...' ocurre cuando alguien dice algo que es
+Un "Bueno, en realidad..." ocurre cuando alguien dice algo que es
 casi - pero no completamente - correcto, y tú dices, "Bueno, en
-realidad…" y, a continuación, proporcionas una pequeña corrección. Esto
-es especialmente molesto cuando la corrección es irrelevante en la
+realidad..." y, a continuación, proporcionas una pequeña corrección.
+Esto es especialmente molesto cuando la corrección es irrelevante en la
 conversación que se está teniendo.
 
-#### No "-isimos" imperceptibles
+#### No "-ísimos" imperceptibles
 
-"-isimos" imperceptibles son pequeñas cosas que provocan que otros
+"-ísimos" imperceptibles son pequeñas cosas que provocan que otros
 estén incómodos, cosas que todos hacemos a veces por error. Por
 ejemplo, decir "Es tan fácil que mi abuela podría hacerlo" es un
-"-isimo" imperceptible (como decir que es fácil-ísimo). Como otras
+"-ísimo" imperceptible (como decir que es fácil-ísimo). Como otras
 tres normas sociales, esta la rompemos de forma accidental. Como las
-otras tres, no conviene hacerse un lió, simplemente nos disculpamos y
+otras tres, no conviene hacerse un lío, simplemente nos disculpamos y
 continuamos.
 
 > Las dos secciones anteriores vienen de
@@ -111,30 +111,29 @@ amigas. Esta aproximación nos llevará a un largo camino más tarde.
 El último objetivo del taller no es crear una página web. No es
 enseñar Django al completo. Tampoco es enseñar a programar.
 
-El último objetivo es mostrar que el código es divertido. __Para tener
-a la gente excitada.__ Para enseñar a la gente que programar no es
+El objetivo final es mostrar que el código es divertido. __Para tener
+a la gente emocionada.__ Para enseñar a la gente que programar no es
 algo a temer y que puede ser para todo el mundo. Sirve para enseñar lo
 poderoso que puede llegar a ser disponer de habilidades en
 programación.
 
-Esta excitación y pasión nos conducirá a pasar interminables horas a
-entender todo esto durante el taller y posteriormente.
+Esta emoción y pasión les conducirá a pasar interminables horas a
+entender todo esto durante y después del taller.
 
 ### Atmósfera
 
-La excitación puede ser buena mientras que el estrés puede ser
-contraproducente para aprender. Realmente nos preocupa la atmósfera y
-dar a nuestros alumnos una primera experiencia maravillosa escribiendo
-código.
+La emoción es buena, pero el estrés puede ser contraproducente para
+aprender. Realmente nos preocupa la atmósfera y en dar a nuestros
+alumnos una primera experiencia maravillosa escribiendo código.
 
 Imagina lo siguiente: Estás intentando hacer algo complejo. Estás en
 una habitación llena de extraños que saben la forma de hacerlo mejor
 que tú. No sabes como articular tus preguntas. No conoces los nombres
 correctos para cualquier cosa.
 
-Para la mayoría de gente esta es una situación incómoda y
-estresante. ¡Pero no debería ser así! Estamos ahí para hacer que esto
-sea sencillo. Esto es lo que puedes hacer:
+Para la mayoría de gente esta es una situación incómoda y estresante.
+¡Pero no debería ser así! Estamos ahí para hacer que esto sea sencillo.
+Esto es lo que puedes hacer:
 
 - ¡Sonríe!
 - Haz contacto visual
@@ -167,8 +166,7 @@ nos mantiene callados y no permite que realicemos preguntas
 importantes como "¿Cómo funciona eso?" o incluso, simplemente, "¿por
 qué?".
 
-También, el miedo a cometer errores provoca que la gente se enfoque en
-progresar.
+También, el miedo a cometer errores evita que la gente progrese.
 
 #### Síndrome del impostor
 
@@ -212,8 +210,8 @@ apartarán. Esto puede ser desagradable e incluso intimidante.
 Estamos seguros que puede explicar lo que se tiene que hacer e
 instruir a tus alumnos únicamente con tus palabras (¡En realidad es un
 buen ejercicio incluso para ti!). Si, de forma imperativa, **debes**
-escribir algo en su computadora — a veces sucede — pregúntales si no
-existe ningún inconveniente y explícales lo que estás haciendo.
+escribir algo en su computadora — lo más probable es que no — pregúntales
+si no existe ningún inconveniente y explícales lo que estás haciendo.
 
 Pregunta: "¿No te importa que teclee?" o "¿Podría?".
 
@@ -225,17 +223,17 @@ mismos. Afortunadamente, ¡puedes hacer que esto sea más sencillo para
 todas ellas!
 
 __Hazles usar un buscador para encontrar cosas__ - no les des
-respuestas inmediatas solo para hacer que las cosas vayan más
+respuestas inmediatas sólo para hacer que las cosas vayan más
 rápido. No pasa nada si estás yendo más rápido o más despacio -- lo
 que importa es si se van a enamorar de lo que estás enseñando o no.
 
 __Pregúntales sobre sus ideas__ - "¿Cómo lo resolverías?", "¿Qué
-crees?". Deja que piensen las cosas por si mismas. Tú sabes que lo
+crees?". Deja que piensen las cosas por sí mismas. Tú sabes que lo
 saben, ¿verdad?
 
 __Anímales a realizar sus propios cambios y a desviarse ligeramente
-del tutorial si es adecuado__ - Si intentan dar algún rodeo y no se
-sigue el tutorial a cada paso aprenderán mucho mucho más. Es sencillo
+del tutorial si es adecuado__ - Si intentan dar algún rodeo y no
+siguen el tutorial a cada paso, aprenderán mucho mucho más. Es sencillo
 copiar-pegar algo de código y colocarlo en el lugar adecuado. Es más
 complicado añadir algo a partir de tu propio criterio y hacer que
 funcione.
