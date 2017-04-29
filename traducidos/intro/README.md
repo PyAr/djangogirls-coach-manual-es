@@ -63,9 +63,9 @@ El tutorial cubre:
 tiempo para aprender durante el taller si vienen con todo lo que
 necesiten ya instalado. La mayoría de eventos Django Girls incluyen
 una reunión previa la tarde-noche anterior o en los días previos, ahí
-podrás ayudar a tu grupo en tareas de instalación y en comprobar si
-su sistema está listo. Esto podría hacerse en persona o por
-Skype/Google hangout, etc.
+podrás ayudar a tu grupo en tareas de instalación y comprobar si su
+sistema está listo. Esto podría hacerse en persona o por Skype/Google
+hangout, etc.
 
 Recomendamos dirigir a los alumnos al
 [capítulo de instalación](https://argentinaenpython.com/django-girls/tutorial/installation/)

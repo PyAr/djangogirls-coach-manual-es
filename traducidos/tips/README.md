@@ -36,8 +36,8 @@ haga saber!"
 Por momentos, los alumnos pueden llegar a estar abrumados. ¡Este es el
 porqué de que existan descansos dentro del horario! Si crees que un
 alumno está empezando a frustrarse y le beneficiaría un descanso,
-hazles saber de que está bien que paren durante unos minutos, tomen
-un sorbo de agua y vuelvan a la tarea. Algunas veces, el solo
+hazles saber de que está bien que se levanten durante unos minutos,
+tomen un sorbo de agua y vuelvan a la tarea. Algunas veces, el solo
 movimiento de tu cuerpo puede ayudar a que los conocimientos
 cristalicen.
 
